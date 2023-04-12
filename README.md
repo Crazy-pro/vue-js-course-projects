@@ -13,9 +13,9 @@ Various features from Vue 3 were used, as well as three different syntaxes:
 
 
 ### Technologies:
-- Programming language: JavaScript, TypeScript;
+- Programming languages: JavaScript, TypeScript;
 - Frameworks: Vue JS 3;
 - IDE: Visual Studio Code;
-- Storages: Vuex, FireBase Storage;
-- Tools: Vue Router, Postman, NPM, Git, HTML, CSS, HTTPs, XML, YAML, JSON;
+- Storages: Vuex, Pinia, FireBase Storage;
+- Tools: Vue Router, Axios, Postman, NPM, Git, HTML, CSS, HTTPs, XML, YAML, JSON;
 - Others: GitHub, ESLint.
