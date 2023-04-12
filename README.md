@@ -8,7 +8,7 @@ Various features from Vue 3 were used, as well as three different syntaxies:
 
 
 ### How to start:
-1. Read HOW-TO-USE.pdf
+- Read HOW-TO-USE.pdf
 
 
 
